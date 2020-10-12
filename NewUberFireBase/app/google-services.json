@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579492407066",
+    "firebase_url": "https://newuberfire.firebaseio.com",
+    "project_id": "newuberfire",
+    "storage_bucket": "newuberfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579492407066:android:1ecabc7037944fbc182ea3",
+        "android_client_info": {
+          "package_name": "com.example.newuberfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579492407066-03rml033url16rqmkrj2qafvfdjhv06c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newuberfirebase",
+            "certificate_hash": "2d0e0ac9c63ea955ed8b4573cf8476de8ebacbd4"
+          }
+        },
+        {
+          "client_id": "579492407066-vcm420ogq6tde6amjq8s2tno69rd4c78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsedfyP9zFobCUd9O1IknIvAoqOauXG60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579492407066-vcm420ogq6tde6amjq8s2tno69rd4c78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
